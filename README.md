@@ -11,3 +11,9 @@
 3. Ну и все, пользуйтесь.
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/e0403ed4-9e7a-4349-a089-f3d6eb7775a8" />
+
+Хотите настроить? Нажмите на расширение, там четко написано что и как работает! А в самом конце, когда выберите настройки...
+ОБЯЗАТЕЛЬНО НАЖМИТЕ 
+<img width="207" height="45" alt="image" src="https://github.com/user-attachments/assets/1755a589-2187-412c-a035-e701bf04ba97" />
+
+Ну теперь точно все!
